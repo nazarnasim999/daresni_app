@@ -1,0 +1,6 @@
+package com.daresni.tutor.student.darasni
+
+import io.flutter.embedding.android.FlutterFragmentActivity
+
+class MainActivity: FlutterFragmentActivity() {
+}
